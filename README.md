@@ -1,8 +1,8 @@
-Baseball Game
+Bulls & cows
 =============
-<br><br>![Intro](/image/1.JPG)
-![play](/image/2.JPG)
-![out](/image/3.JPG)
-![score](/image/4.JPG)
-
-야구게임.
+<br>
+<br>
+해당 레포는 숫자야구(Bulls & cows)게임을 다양한 언어로 구현한걸 모아둔 레포입니다.
+<br>
+3~4자리 숫자만 지원되며, 중복이 허용되지 않습니다.
+<br>
