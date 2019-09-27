@@ -12,7 +12,7 @@ int setMyNum(int *arr, int num, int count);
 void showNum(int *arr, int count, int space);
 int checkNum(int *arr, int *inputarr, int count, int *numCount);
 void check(int *arr, int *inputarr, int count, int *strack, int *ball);
-void clear(int, char); // s = ½Ã°£Áö¿¬ / p = ¸ØÃã
+void clear(int, char); // s = slepp, p = pause
 
 int main() {
 	int ch;
