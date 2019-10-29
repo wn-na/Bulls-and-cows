@@ -3,10 +3,9 @@ import random
 GAME_SIZE = 3
 
 def init_rand():
-    arr = [0,1,2,3,4,5,6,7,8,9]
+    arr = random.sample(range(0, 10), GAME_SIZE)
     while arr[0] == 0:
         random.shuffle(arr)
-    arr = arr[0:GAME_SIZE]
     return int(''.join(map(str,arr)))
 
 def user_input():
